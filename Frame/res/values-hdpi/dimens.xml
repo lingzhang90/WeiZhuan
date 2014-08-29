@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- titlebar -->
+    <dimen name="titlebar_minheight">48dp</dimen>
+    <dimen name="titlebar_side_padding">10dp</dimen>
+    <dimen name="titlebar_side_padding1">20dp</dimen>
+    <dimen name="titlebar_side_text_size">18sp</dimen>
+    <dimen name="titlebar_text_size">22sp</dimen>
+    <!-- joke -->
+    <dimen name="joke_itemview_margin">11.5dp</dimen>
+    <dimen name="joke_itemview_content_text_size_normal">8.5sp</dimen>
+    <dimen name="joke_itemview_content_text_size_large">10.5sp</dimen>
+    <!-- slide menu -->
+    <dimen name="shadow_width">15dp</dimen>
+    <dimen name="slidingmenu_offset">60dp</dimen>
+    <dimen name="itemview_info_size">20sp</dimen>
+
+</resources>

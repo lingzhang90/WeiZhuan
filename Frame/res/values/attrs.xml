@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NightMode">
+        <attr name="titlebar_background" format="color" />
+        <attr name="titlebar_left_image" format="reference" />
+        <attr name="titlebar_left_text" format="color" />
+        <attr name="titlebar_left_drawableleft" format="reference" />
+        <attr name="titlebar_right_image" format="reference" />
+        <attr name="joke_frag_vpager" format="color" />
+        <attr name="joke_frag_bottom" format="color" />
+        <attr name="joke_frag_bottom_img_st" format="reference" />
+        <attr name="joke_frag_bottom_img_tg" format="reference" />
+        <attr name="joke_frag_bottom_text" format="color" />
+        <attr name="joke_frag_view" format="color" />
+        <attr name="day_night_text_color" format="color" />
+        <attr name="base_listview_backgroud" format="color" />
+        <attr name="itemview_info_now_backgroud" format="color" />
+        <attr name="itemview_info_now_line" format="reference" />
+        <attr name="itemview_info_now_like" format="reference" />
+        <attr name="itemview_info_now_dislike" format="reference" />
+        <attr name="itemview_info_now_liuyan" format="reference" />
+        <attr name="itemview_info_now_share" format="reference" />
+        <attr name="itemview_info_now_more" format="reference" />
+        <attr name="menu_fragment_backgroud" format="color" />
+        <attr name="menu_fragment_layout" format="color" />
+        <attr name="menu_fragment_view" format="color" />
+        <attr name="setting_fragment_backgroud" format="color" />
+        <attr name="setting_fragment_edit" format="color" />
+        <attr name="setting_fragment_view" format="color" />
+        <attr name="feedback_background" format="color" />
+        <attr name="feedback_edit" format="reference" />
+        <attr name="person_background" format="color" />
+        <attr name="person_jilu" format="color" />
+        <attr name="person_view" format="color" />
+        <attr name="user_login_background" format="color" />
+        <attr name="user_login_edit_background" format="color" />
+        <attr name="user_login_edit_view" format="color" />
+        <attr name="user_login_text" format="color" />
+        <attr name="user_login_button_text" format="color" />
+        <attr name="about_fragment" format="reference" />
+        <attr name="joke_examine" format="reference" />
+        <attr name="joke_examine_background" format="color" />
+        <attr name="joke_examine_bottom_background" format="color" />
+        <attr name="joke_examine_bottom_like" format="reference" />
+        <attr name="joke_examine_bottom_dislike" format="reference" />
+        <attr name="joke_examine_bottom_text" format="color" />
+        <attr name="userinfo_edit_background" format="color" />
+        <attr name="userinfo_edit_text" format="color" />
+        <attr name="userinfo_edit_editview" format="color" />
+        <attr name="joke_datil_bottom_background" format="color" />
+        <attr name="joke_datil_bottom_image" format="reference" />
+        <attr name="menu_nickname_text" format="color" />
+        <attr name="menu_username_text" format="color" />
+    </declare-styleable>
+
+</resources>
