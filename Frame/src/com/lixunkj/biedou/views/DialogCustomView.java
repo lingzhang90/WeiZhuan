@@ -194,5 +194,5 @@ public class DialogCustomView extends LinearLayout {
 
 	}
 //测试测试Tortoisegit
-
+	//测试测试Tortoisegit
 }
