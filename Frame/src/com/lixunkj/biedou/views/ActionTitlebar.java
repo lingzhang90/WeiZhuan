@@ -193,4 +193,5 @@ public class ActionTitlebar extends RelativeLayout implements OnClickListener {
 		btn_right_home_second.setImageResource(secondImageResource);
 	}
 //在actiontitlebar测试
+	//再次测试一下
 }
